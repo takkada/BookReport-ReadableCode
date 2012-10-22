@@ -9,4 +9,5 @@ BookReport-ReadableCode
 社内布教しようとライトニングトークした時のサンプルコードです。
 
 書籍はコチラ
+-----
 O'Reilly Japan - リーダブルコード http://www.oreilly.co.jp/books/9784873115658/
