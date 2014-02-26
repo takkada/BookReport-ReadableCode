@@ -5,6 +5,7 @@ public class ProductBean {
 
 	private String productName;
 
+	//‚¨‚Ü‚ñ‚¿‚ñ
 	private int price;
 
 	public int getProductCode() {
